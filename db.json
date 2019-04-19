@@ -1,53 +1,15 @@
+
 {
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
   "cards": {
-    "id": 1,
+  "id": 1,
     "firstname": "Kostas",
     "lastname": "Cibulskas",
     "valid": true
-}
-,
-  "shops/get": [
-    {
-         "id": 1, 
-         "caption": "Drama Burger",
-         "discounts": [
-             {
-                 "id": 1, 
-                 "caption": "Restaurants - Lunch meals",
-                 "discountpercent": 5.5
-             },
-             {   "id": 2, 
-                 "caption": "Restaurants - Random shit",
-                 "discountpercent": 5.5
-             }
-         ]
-    },
-    {
-      "id": 2, 
-         "caption": "fortas",
-         "discounts": [
-             {
-                 "id": 1, 
-                 "caption": "Restaurants - Lunch meals",
-                 "discountpercent": 10
-             }
-         ]
-    },
-	{
-      "id": 2, 
-         "caption": "GUACAMOLE",
-         "discounts": [
-             {
-                 "id": 1, 
-                 "caption": "Restaurants - Lunch meals",
-                 "discountpercent": 5
-             },
-			  {
-                 "id": 1, 
-                 "caption": "Restaurants - All menu",
-                 "discountpercent": 15
-             }
-         ]
-    }
-]
+  }
 }
