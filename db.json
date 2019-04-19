@@ -1,9 +1,20 @@
 
 {
-  "posts": [
+  "shops": [
     {
-      "id": 1,
-      "title": "hello"
+      "id": 1, 
+         "caption": "Drama Burger",
+		 "discounts": [
+             {
+                 "id": 1, 
+                 "caption": "Restaurants - Lunch meals",
+                 "discountpercent": 5.5
+             },
+             {   "id": 2, 
+                 "caption": "Restaurants - Random shit",
+                 "discountpercent": 5.5
+             }
+         ]
     }
   ],
   "cards": {
