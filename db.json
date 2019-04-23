@@ -17,10 +17,23 @@
          ]
     }
   ],
-  "cards": {
+  "cards": [{
   "id": 1,
     "firstname": "Kostas",
     "lastname": "Cibulskas",
     "valid": true
-  }
+  },
+	   {
+  "id": 2,
+    "firstname": "Edvardas",
+    "lastname": "MTestas",
+    "valid": true
+  },
+	  {
+  "id": 3,
+    "firstname": "Kostas",
+    "lastname": "rimtas",
+    "valid": true
+  },   
+	   ]
 }
